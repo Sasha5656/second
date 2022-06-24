@@ -1,3 +1,3 @@
 # second
 Just  STUDY
--[X] Write code
+- [ ] Write code
